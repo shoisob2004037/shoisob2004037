@@ -125,9 +125,9 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/assets/photo1.jpg" width="200px" alt="Photography"></td>
-      <td><img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/assets/photo2.jpg" width="200px" alt="Photography"></td>
-      <td><img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/assets/photo3.jpg" width="200px" alt="Photography"></td>
+      <td><img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/1.jpg" width="200px" alt="Photography"></td>
+      <td><img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/2.jpg" width="200px" alt="Photography"></td>
+      <td><img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/3.jpg" width="200px" alt="Photography"></td>
     </tr>
   </table>
   <p><a href="https://shoisob2004037.github.io/photo-slider-portfolio-/">View more photos →</a></p>
