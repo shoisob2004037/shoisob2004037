@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50"/>
   
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
@@ -48,6 +48,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/>
+  
+  <!-- New Skills -->
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="excel" width="50" height="50"/> <!-- Using MSSQL as a proxy for Excel -->
+  <img src="https://www.vectorlogo.zone/logos/microsoft_word/microsoft_word-icon.svg" alt="word" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerpoint/microsoft_powerpoint-icon.svg" alt="powerpoint" width="50" height="50"/>
 </p>
 
 ## Recent Projects
@@ -58,10 +64,10 @@
       <h3 align="center">Quiz App</h3>
       <p align="center">
         <a href="https://github.com/shoisob2004037/event-management" target="_blank">
-          <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/Screenshot 2025-04-05 211547.png" width="100%" alt="Event Management App"/>
+          <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/Screenshot 2025-04-05 205532.png" width="100%" alt="Event Management App"/>
         </a>
         <p align="center">
-          A full-stack MERN application for managing events with user authentication, event creation, and booking system.
+          A full-stack MERN application for creating quiz , managing dashboard, attend quizzes and performance tracking. 
         </p>
         <p align="center">
           <strong>Technologies:</strong> React.js, Express, MongoDB, Firebase Auth
@@ -69,7 +75,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">E-commerce Platform</h3>
+      <h3 align="center">Gadgets Website</h3>
       <p align="center">
         <a href="https://github.com/shoisob2004037/ecommerce-platform" target="_blank">
           <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/assets/project2.jpg" width="100%" alt="E-commerce Platform"/>
@@ -136,7 +142,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50"/>
   
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
@@ -152,6 +158,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/>
+  
+  <!-- New Skills -->
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="excel" width="50" height="50"/> <!-- Proxy for Excel -->
+  <img src="https://www.vectorlogo.zone/logos/microsoft_word/microsoft_word-icon.svg" alt="word" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerpoint/microsoft_powerpoint-icon.svg" alt="powerpoint" width="50" height="50"/>
 </p>
 
 ## GitHub Stats
