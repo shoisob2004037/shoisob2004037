@@ -7,8 +7,8 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://shoisob2004037.github.io/portfolio/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhshoisob@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahadi-hasan-shaisob)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mahadi_hasan_shaisob)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahadi-hasan-shaisob-bb72892b9/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hasan.shoisob)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_shoisob_is_here_)
 </div>
 
@@ -63,8 +63,8 @@
     <td width="50%">
       <h3 align="center">Quiz App</h3>
       <p align="center">
-        <a href="https://github.com/shoisob2004037/event-management" target="_blank">
-          <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/Screenshot 2025-04-05 205532.png" width="100%" alt="Event Management App"/>
+        <a href="https://quiz-app-braf.vercel.app" target="_blank">
+          <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/Screenshot 2025-04-05 205532.png" width="100%" alt="Quiz App"/>
         </a>
         <p align="center">
           A full-stack MERN application for creating quiz , managing dashboard, attend quizzes and performance tracking. 
@@ -77,41 +77,41 @@
     <td width="50%">
       <h3 align="center">Gadgets Website</h3>
       <p align="center">
-        <a href="https://github.com/shoisob2004037/ecommerce-platform" target="_blank">
-          <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/assets/project2.jpg" width="100%" alt="E-commerce Platform"/>
+        <a href="https://gadgets-shop-zeta.vercel.app" target="_blank">
+          <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/project2.png" width="100%" alt="Gadgets Website"/>
         </a>
         <p align="center">
           Online shopping platform with product catalog, cart functionality, and secure payment processing.
         </p>
         <p align="center">
-          <strong>Technologies:</strong> React.js, Node.js, Express, MongoDB, Stripe
+          <strong>Technologies:</strong> React.js, Firebase, Bootstrap.
         </p>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Task Management System</h3>
+      <h3 align="center">Hospital Management System</h3>
       <p align="center">
-        <a href="https://github.com/shoisob2004037/task-manager" target="_blank">
-          <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/assets/project3.jpg" width="100%" alt="Task Management System"/>
+        <a href="https://hospital-management-4php.vercel.app" target="_blank">
+          <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/project3.png" width="100%" alt="Hospital Management System"/>
         </a>
         <p align="center">
-          A responsive task management application with drag-and-drop functionality and real-time updates.
+          A responsive Hospital management application with doctor, admin, patient login for appointment booking online and others.
         </p>
         <p align="center">
-          <strong>Technologies:</strong> React.js, Express, MongoDB, Socket.io
+          <strong>Technologies:</strong> React.js, Express, MongoDB, Node.js
         </p>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Blog Platform</h3>
+      <h3 align="center">Social Media</h3>
       <p align="center">
-        <a href="https://github.com/shoisob2004037/blog-platform" target="_blank">
-          <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/assets/project4.jpg" width="100%" alt="Blog Platform"/>
+        <a href="https://github.com/shoisob2004037/Social-Media" target="_blank">
+          <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/assets/project4.jpg" width="100%" alt="Social Media Platform"/>
         </a>
         <p align="center">
-          A feature-rich blogging platform with markdown support, authentication, and comment system.
+          Coming Soon
         </p>
         <p align="center">
           <strong>Technologies:</strong> React.js, Node.js, Firebase, MongoDB
