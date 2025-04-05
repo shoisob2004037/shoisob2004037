@@ -55,10 +55,10 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Event Management App</h3>
+      <h3 align="center">Quiz App</h3>
       <p align="center">
         <a href="https://github.com/shoisob2004037/event-management" target="_blank">
-          <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/assets/project1.jpg" width="100%" alt="Event Management App"/>
+          <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/Screenshot 2025-04-05 211547.png" width="100%" alt="Event Management App"/>
         </a>
         <p align="center">
           A full-stack MERN application for managing events with user authentication, event creation, and booking system.
