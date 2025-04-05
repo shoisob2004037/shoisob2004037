@@ -1,7 +1,6 @@
 # Mahadi Hasan Shaisob
 
-[![MasterHead](Screenshot 2025-04-05 211547.png)](https://shoisob2004037.github.io/portfolio/)
-
+[![Shoisob](https://github.com/shoisob2004037/shoisob2004037/raw/main/Screenshot%202025-04-05%20211547.png)](https://shoisob2004037.github.io/portfolio/)
 <div align="center">
   <h2>MERN Stack Developer from Bangladesh</h2>
   <p>Building full-stack web applications with modern technologies</p>
