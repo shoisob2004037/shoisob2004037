@@ -107,7 +107,7 @@
     <td width="50%">
       <h3 align="center">Social Media</h3>
       <p align="center">
-        <a href="https://github.com/shoisob2004037/Social-Media" target="_blank">
+        <a href="https://ruet-social.vercel.app" target="_blank">
           <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/assets/project4.jpg" width="100%" alt="Social Media Platform"/>
         </a>
         <p align="center">
