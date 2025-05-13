@@ -93,7 +93,7 @@
     <td width="50%">
       <h3 align="center">Hospital Management System</h3>
       <p align="center">
-        <a href="https://hospital-management-4php.vercel.app" target="_blank">
+        <a href="https://hospital-management-ashy-chi.vercel.app" target="_blank">
           <img src="https://github.com/shoisob2004037/shoisob2004037/raw/main/project3.png" width="100%" alt="Hospital Management System"/>
         </a>
         <p align="center">
