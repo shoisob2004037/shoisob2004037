@@ -113,17 +113,9 @@
         <p align="center">
           RUET Social – A Social Media Platform for RUETians!
           📌 Core Features:
-              🔑 Login & Registration (with hashed passwords – no one, not even admin, can see it)
-              📝 Create, edit & delete posts
-              ❤️ Like, 💬 comment, and 📌 save posts
-              🔍 Search people by filtering all RUET departments
-              📁 Hashtags support with hashtag-based post search 
-              🤝 Follow system & personalized timeline from followed users 
-              🧠 Smart user suggestions based on your department
-              🔒 Privacy-first: profiles & messaging only accessible when both users follow each other
-              💬 Realtime Messaging via Socket.io – fast and secure
-              🧑‍🎓 Full profile view: about, photos, posts, followers, and following
-              🎨 Responsive UI using Tailwind CSS + Bootstrap – optimized for all devices
+              Login & Registration ,Create, edit & delete posts, ❤️ Like, 💬 comment, and 📌 save posts, 🔍 Search people by filtering all RUET departments,📁                     Hashtags support with hashtag-based post search ,Follow system & personalized timeline from followed users,Smart user suggestions based on your                        department,Privacy-first: profiles & messaging only accessible when both users follow each other,Realtime Messaging via Socket.io – fast and 
+              secureRealtime Messaging via Socket.io – fast and secure, Full profile view: about, photos, posts, followers, and following, Responsive UI using 
+              Tailwind CSS +  Bootstrap – optimized for all devices
         </p>
         <p align="center">
           <strong>Technologies:</strong> React.js, Node.js, Firebase, MongoDB
